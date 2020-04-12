@@ -1,1 +1,34 @@
-Start of Notekk
+What is AWS
+- Amazon Web Services
+- Global cloud platform: Host and manage Services
+- 80% o fortune 500 use it
+- Companies can get Java, Ruby etc as a service so they do not have to host them
+- Cloud storage 
+- Overall hosting provider that includes services
+
+Why it is such a hit
+- Everyone wants to put their application on AWS
+- Billing is very clear - per hour
+- Every service has a microbilling that is very transparent
+- Integrated billing dashboard with reports
+- It is very stable with minimal outages
+
+EC2 - Elastic Compute Cloud
+- Can get small or big machines
+
+VPC - Virtual Private Cloud
+- You get a chunk of a cloud where you can build networks on
+
+S3 - Simple storage Service
+
+RDS - Relational Database service
+
+Route 53 - DNS service
+
+ELB - Elastic Load Balancer
+- Scale up web application to any number of users
+- Can also be autoscaled
+
+Cost
+- Per hour billing 
+- Region specific pricing - because there is more capacity: Oregon and Virginia are the cheapest
