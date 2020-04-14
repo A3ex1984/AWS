@@ -32,3 +32,30 @@ ELB - Elastic Load Balancer
 Cost
 - Per hour billing 
 - Region specific pricing - because there is more capacity: Oregon and Virginia are the cheapest
+
+
+Alexa Skills Kit
+
+Alexa Voice Service
+
+AVR
+
+Natural Language Understanding
+
+JSON 
+- important concept as programmer and web developer
+- Java Script Object Notation
+- Data representation format
+- Commonly used for APIs and Configs
+- Lightweight and easy to read - cleaner than XML 
+- Integrates nice with JavaScript
+- Represents Strings, Numbers, Booleans, null, Arrays, Objects
+- user.json - this creates a JSON file; in there you can put a number or others but it makes more sense to put an object or array in 
+- 
+
+Alexa Brain is in the Cloud and powered by AWS 
+Audio is processed in real time
+1 second of audio understood in 1 second of compute time 
+NLU makes it difficult for testing as there are not hard defined test cases
+
+UML:
