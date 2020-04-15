@@ -78,4 +78,6 @@ UML
 - UML Use Case Diagrams (https://www.youtube.com/watch?v=zid-MVo7M-E)
 - Useful when explaining concepts or ideas
 - Very high level diagram that explains ideas
-- Systems, Use Cases, Actors, Relationships
+- Systems (e.g. banking app), Use Cases (e.g. login, check balance), Actors (e.g. customer), Relationships (include, extend)
+- UML Sequence Diagram (https://www.youtube.com/watch?v=pCK6prSq8aw)
+- Show interaction in the order they take place
