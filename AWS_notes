@@ -41,6 +41,12 @@ Alexa Voice Service
 AVR
 
 Natural Language Understanding
+- 6500 languages
+- Most data is not available in a structured form - we need to translate natural language into strucutred data
+- Text Mining = deriving meaningful data from natrual langugage Text
+- NLP = part of computer science and artificial intelligence which deal with human languages
+- Applications of Text Mining/NLP: Sentimental analysis; Chatbot; Speech Recognition; Machine translation (Google Translate)
+- 2 parts: Natural Language Understanding adn Natural Language Generation
 
 JSON 
 - important concept as programmer and web developer
@@ -51,11 +57,25 @@ JSON
 - Integrates nice with JavaScript
 - Represents Strings, Numbers, Booleans, null, Arrays, Objects
 - user.json - this creates a JSON file; in there you can put a number or others but it makes more sense to put an object or array in 
-- 
+
 
 Alexa Brain is in the Cloud and powered by AWS 
 Audio is processed in real time
 1 second of audio understood in 1 second of compute time 
 NLU makes it difficult for testing as there are not hard defined test cases
 
-UML:
+UML 
+- Unified Modelling Language (https://www.youtube.com/watch?v=UI6lqHOVHic)
+- UML Class Diagrams (Class, attributes, methods) relationships
+- e.g. Class is animal, attributes (significant piece of data, variables) is name, id, age; methods are setName(), eat
+- minus sign is private, public is a plus sign, protected is # which can only be accessed by same class
+- Relationships (arrow): 
+    Inheritance: inherit all attributes of super class - then you can additional specific ones
+    Association: they interact with each other e.g. one eats the other
+    Aggregation: Diamond arrow
+    Composition: Filled diamond arrow: Child object does not exist without the parent
+    Multiplicity: 0...1 zero to one; n ....
+- UML Use Case Diagrams (https://www.youtube.com/watch?v=zid-MVo7M-E)
+- Useful when explaining concepts or ideas
+- Very high level diagram that explains ideas
+- Systems, Use Cases, Actors, Relationships
